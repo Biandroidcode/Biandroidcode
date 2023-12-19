@@ -1,6 +1,5 @@
-
- <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM3Y3dhcHlhb29rajJiMmdsdnZhN20yaXF0aGgxZTlsMXF2Z296dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l44Qqz6gO6JiVV3pu/giphy.gif"  />
+<div align="center">
+  <img height="" src="https://media1.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47lgwblc04q9opo9b0d9wi1cmvpqziaer6mv1vlwel&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -19,23 +18,23 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello world 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Bianca from Brazil<br><br>- 🔭 I’m working as Web developer<br>- 📚 I'm currently learning Java Script<br>- ⚡ In my free time I play piano</p>
+<p align="center">I'm Bianca from Brazil<br><br>- 🔭 I’m working as Web developer<br>- 📚 I'm currently learning Java Script<br>- ⚡ In my free time I play piano</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,10 +52,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
